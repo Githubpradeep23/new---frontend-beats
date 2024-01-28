@@ -1,0 +1,36 @@
+.addEmployeeContainer{
+    max-width: 80%;
+}
+.form-select{
+    width: 100%;
+    padding: 1rem 0rem;
+    border-radius: 5px;
+    padding-left: 0.5rem;
+    color: grey;
+    font-size: 0.9rem;
+}
+.addEmployeeImg{
+}
+.addEmployeeImg button{
+    background-color: #fd9206;
+    min-width: 100%;
+    color: white;
+    padding: 1rem 0rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.addEmployeeBtn{
+  padding: 2rem 0rem;
+}
+.addEmployeeBtn button{
+    background-color: #fd9206;
+    min-width: 100%;
+    color: white;
+    padding: 1rem 0rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}

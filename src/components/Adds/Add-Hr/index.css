@@ -1,0 +1,32 @@
+.addHrDisContent {
+  width: 600px;
+  display: grid;
+  grid-row-gap: 1rem;
+}
+.addHrDisContent button {
+  background-color: #fd9206;
+  min-width: 100%;
+  color: white;
+  padding: 1rem 0rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 1rem 0rem;
+}
+.addTelecallerContent {
+  width: 600px;
+  display: grid;
+  grid-row-gap: 1rem;
+}
+.addTelecallerContent button {
+  background-color: #fd9206;
+  min-width: 100%;
+  color: white;
+  padding: 1rem 0rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 1rem 0rem;
+}

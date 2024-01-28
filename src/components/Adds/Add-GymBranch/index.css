@@ -1,0 +1,30 @@
+.addGymBranchContainer {
+  display: grid;
+  place-items: center;
+  padding-top: 4rem;
+
+
+}
+.addGymBranchContent {
+  display: grid;
+  place-items: center;
+  width: 100%;
+}
+.addGymBtnSection {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 2rem 1rem;
+  gap: 1rem;
+}
+.addGymBtnSection button {
+  background-color: #fd9206;
+  min-width: 50%;
+  color: white;
+  padding: 0.9rem 2rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}

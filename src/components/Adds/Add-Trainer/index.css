@@ -1,0 +1,48 @@
+.addTrainerContainer {
+  max-width: 80%;
+}
+.addTrainerContent {
+  width: 600px;
+}
+.addTrainerContent button {
+  background-color: #fd9206;
+  min-width: 100%;
+  color: white;
+  padding: 1rem 0rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 1rem 0rem;
+}
+
+.addMedicalContent {
+  width: 600px;
+}
+.addMedicalContent button {
+  background-color: #fd9206;
+  min-width: 100%;
+  color: white;
+  padding: 1rem 0rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 1rem 0rem;
+}
+.workoutBtn {
+  padding: 1rem 0rem 0rem 1rem;
+  width: 100%;
+}
+
+.workoutBtn button {
+  background-color: #fd9206;
+  min-width: 100%;
+  color: white;
+  padding: 1rem 0rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 1rem 0rem;
+}

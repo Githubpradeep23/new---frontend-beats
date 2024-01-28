@@ -1,0 +1,37 @@
+.addTestimonialContainer{
+    max-width: 80%;
+}
+.testimonialArea{
+    width: 100%;
+    padding: 1rem 1rem;
+    resize: vertical;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+.App-container{
+  border: 1px solid lightgray;
+  margin-left: 1.4%;
+  margin-top: 1.4%;
+  min-width: 48.5%;
+  border-radius: 5px;
+
+
+}
+.addTestimonialBtn{
+    width: 100%;
+    padding: 2rem 0rem 0rem 1rem;
+    display: grid;
+    place-items: center;
+
+}
+.addTestimonialBtn button{
+    background-color: #fd9206;
+    min-width: 100%;
+    color: white;
+    padding: 0.9rem 0rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
