@@ -37,14 +37,7 @@ const DeleteAccount = () => {
       });
       toast.error("Mobile number is required");
       return;
-      // }
-      // if (!data.otp) {
-      //   setError("otp", {
-      //     type: "manual",
-      //     message: "Otp is required",
-      //   });
-      //   toast.error("Otp is required");
-      //   return;
+      
     } else {
       try {
         const response = await axios.post(
